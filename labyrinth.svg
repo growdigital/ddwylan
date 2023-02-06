@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="338.66666mm"
+   height="338.66666mm"
+   viewBox="0 0 338.66666 338.66666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="labyrinth.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45291836"
+     inkscape:cx="1601.8339"
+     inkscape:cy="660.16312"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-126.42745,-114.44831)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       width="338.66666"
+       height="338.66666"
+       preserveAspectRatio="none"
+       xlink:href="labyrinth-spiral-chakra-vyuha.png"
+       id="image332"
+       x="126.42745"
+       y="114.44831" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-126.42745,-114.44831)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000"
+       id="path1325"
+       sodipodi:cx="600.52863"
+       sodipodi:cy="619.97229"
+       sodipodi:expansion="1"
+       sodipodi:revolution="6"
+       sodipodi:radius="694.63928"
+       sodipodi:argument="-40.258144"
+       sodipodi:t0="0"
+       d="m 600.52863,619.97229 c -14.54173,-9.58058 5.74005,-24.32868 15.92355,-24.16931 27.59665,0.43189 38.79164,33.36355 32.41506,56.01641 -11.40622,40.52066 -59.70389,54.92604 -96.10927,40.66082 -53.42635,-20.93479 -71.44457,-86.36758 -48.90657,-136.20213 30.03962,-66.42161 113.14159,-88.12113 176.29498,-57.15232 79.47211,38.9711 104.8783,139.96709 65.39808,216.38784 C 697.72861,808.06937 578.72308,837.19552 489.06377,789.15743 383.40336,732.54619 350.54908,595.46386 407.17418,492.58388 472.5501,373.80487 627.75191,337.21699 743.84059,402.44854 875.74792,476.56877 916.07328,649.91884 842.22168,779.2078 759.37135,924.25049 567.85268,968.31618 425.36956,885.83465 267.18629,794.26451 219.37809,584.56231 310.49696,428.88967 410.7792,257.56182 638.67621,206.00941 807.53479,305.77132 992.01035,414.75976 1047.3083,660.86031 938.8989,842.90201 821.2089,1040.5278 556.89791,1099.5723 361.67535,982.51187 150.89742,856.124 88.105312,573.59703 213.81974,365.19547 348.90248,141.2637 649.64996,74.723329 871.229,209.0941 1108.316,352.86925 1178.6052,671.84097 1035.5761,906.59622 883.11062,1156.8395 545.91152,1230.8782 297.98115,1079.1891 34.580515,918.03497 -43.207981,562.60584 117.14252,301.50126 286.98381,24.942486 660.64521,-56.596246 934.92321,112.41688 1224.6408,290.94407 1309.9301,682.83969 1132.2533,970.29042 945.04132,1273.1675 534.90981,1362.2077 234.28694,1175.8663 -81.750169,979.97041 -174.54145,551.60155 20.465297,237.80705"
+       transform="matrix(0.26458333,0,0,0.26458333,129.60247,119.21084)" />
+  </g>
+</svg>
